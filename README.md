@@ -42,7 +42,6 @@ Dependências:
 ### Justifique as escolhas feitas e como elas impactam o projeto.
 #### Implicações da Arquitetura:
 
-Implicações da Arquitetura:
 - Escalabilidade: O uso do PostgreSQL permite escalabilidade, essencial com o crescimento do número de usuários e dados. Além disso, a arquitetura MVC facilita a distribuição da carga entre Models, Controllers e Views, e a manutenção do website.
 
 - Manutenção: A separação de responsabilidades para as partes do MVC permite atualizações e manutenções independentes umas das outras, reduzindo efeitos em cadeia de um erro.
